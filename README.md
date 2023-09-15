@@ -20,5 +20,14 @@ In case you want to explore and improve the code, the application works as the f
 The video should start playing and you should see:
 
 1) Two lines (blue and red) detecting the lanes.
-2) A square (red and or green) identifying the cars.  
+2) A square (red and or green) identifying the cars.
 
+## Implementation
+
+The system was implemented according to the following diagram:
+
+![image](https://github.com/j-corvo/Lane_Car_Detection/assets/52609366/02e5b5a9-c00c-4913-9e84-97a66ac8de48)
+
+## Questions or Future Improvements
+
+If you would like to make improvements or you have any other questions, you can contact me here on GitHub or on LinkedIn which link is on my GitHub profile page. I would be glad to answer any comments or questions. 
